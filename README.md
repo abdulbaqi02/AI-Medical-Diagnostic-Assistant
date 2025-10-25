@@ -1,4 +1,4 @@
-# 🩺 AI Diagnostic Assistant for Remote Areas
+# 🩺 AI Medical Diagnostic Assistant for Remote Areas
 
 This project is a **Streamlit-based AI-powered diagnostic assistant** designed to support healthcare professionals in **remote or underserved areas**. By leveraging multiple intelligent agents and Google’s Gemini language model, this tool provides an AI-driven **differential diagnosis** based on patient data such as symptoms, vitals, lab results, and medical history.
 
